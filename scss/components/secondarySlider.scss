@@ -52,3 +52,16 @@
   }
 }
 }
+
+.wrapper-cta, .add-to-cart{
+  display: flex;
+}
+.add-to-cart{
+  padding-top: 10px;
+  justify-content: space-between;
+  align-items: center;
+
+  .add{
+    margin-left: 5px;
+  }
+}
