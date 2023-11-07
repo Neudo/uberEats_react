@@ -1,0 +1,94 @@
+header {
+  padding: 40px 0px;
+  display: flex;
+  align-items: center;
+  width: 95%;
+  margin: auto;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+header .Logo {
+  width: 134px;
+  margin-right: 40px;
+}
+header .burger {
+  width: 20px;
+  height: 2px;
+  background-color: black;
+  position: relative;
+  margin-right: 32px;
+}
+header .burger:after, header .burger:before {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  background-color: black;
+  left: 0;
+}
+header .burger:after {
+  top: 5px;
+}
+header .burger:before {
+  bottom: 5px;
+}
+
+.switch {
+  margin-right: 16px;
+}
+.switch div {
+  border-radius: 500px;
+  cursor: pointer;
+}
+.switch div.active {
+  background-color: white;
+}
+
+.location {
+  margin-right: 48px;
+}
+.location svg {
+  margin-right: 4px;
+}
+.location span {
+  width: 3px;
+  height: 3px;
+  background-color: #545454;
+  border-radius: 50%;
+  margin: 2px 4px 0;
+}
+
+.search.cta-header {
+  margin-right: 24px;
+}
+.search.cta-header div {
+  padding: 10px;
+}
+.search.cta-header svg {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
+
+.checkout {
+  margin-right: 24px;
+}
+.checkout svg {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  -ms-filter: invert(1);
+  filter: invert(1);
+}
+.checkout span {
+  width: 3px;
+  height: 3px;
+  background-color: white;
+  border-radius: 50%;
+  margin: 2px 4px 0;
+}
+
+.login {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=header.css.map */

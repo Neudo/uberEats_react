@@ -1,0 +1,159 @@
+{
+  "offerType": [
+    {
+    "title": "Sur le pouce",
+    "restaurants": [
+      {
+        "infos": "Dépensez 20€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFlZDQwYmIxYmU3NjUxMmJiZDFjM2UzYTYwZmM3ZjIvOWIzYWFlNGNmOTBmODk3Nzk5YTVlZDM1N2Q2MGUwOWQuanBlZw==",
+        "name": "Franprix - Paris text caché",
+        "rating": "4.7",
+        "deliveryPrice": "0,99",
+        "deliveryTime": "10-25min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "LE PASTRAMI",
+        "rating": "4.1",
+        "deliveryPrice": "1,99",
+        "deliveryTime": "10-20min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvN2MwNGQ0MDY2YjhkMTZhYTRmZjQwYmVkYmY1ZWJhYWQvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "C'est mon donut's - Paris",
+        "rating": "4.1",
+        "deliveryPrice": "1,49",
+        "deliveryTime": "10-20min"
+      },
+      {
+        "infos": "Dépensez 20€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFlZDQwYmIxYmU3NjUxMmJiZDFjM2UzYTYwZmM3ZjIvOWIzYWFlNGNmOTBmODk3Nzk5YTVlZDM1N2Q2MGUwOWQuanBlZw==",
+        "name": "Franprix - Paris text caché",
+        "rating": "4.7",
+        "deliveryPrice": "0,99",
+        "deliveryTime": "10-25min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "LE PASTRAMI",
+        "rating": "4.1",
+        "deliveryPrice": "1,99",
+        "deliveryTime": "10-20min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvN2MwNGQ0MDY2YjhkMTZhYTRmZjQwYmVkYmY1ZWJhYWQvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "C'est mon donut's - Paris",
+        "rating": "4.1",
+        "deliveryPrice": "1,49",
+        "deliveryTime": "10-20min"
+      },
+      {
+        "infos": "Dépensez 20€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFlZDQwYmIxYmU3NjUxMmJiZDFjM2UzYTYwZmM3ZjIvOWIzYWFlNGNmOTBmODk3Nzk5YTVlZDM1N2Q2MGUwOWQuanBlZw==",
+        "name": "Franprix - Paris text caché",
+        "rating": "4.7",
+        "deliveryPrice": "0,99",
+        "deliveryTime": "10-25min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "LE PASTRAMI",
+        "rating": "4.1",
+        "deliveryPrice": "1,99",
+        "deliveryTime": "10-20min"
+      },
+      {
+        "infos": "Dépensez 10€, économis...",
+        "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvN2MwNGQ0MDY2YjhkMTZhYTRmZjQwYmVkYmY1ZWJhYWQvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+        "name": "C'est mon donut's - Paris",
+        "rating": "4.1",
+        "deliveryPrice": "1,49",
+        "deliveryTime": "10-20min"
+      }
+    ]
+  },
+    {
+      "title": "Offre du jour",
+      "restaurants": [
+        {
+          "infos": "Article gratuit (commander pour 10e)",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZjdhY2JhY2Y2NGRjNzdhODAxZTBiYmE3M2ViMjhmYWYvODIwODgzYTQ4NTY3NjcwYWNiZDcyMGJjNzYzOTEyOTEuanBlZw==",
+          "name": "Keba boom",
+          "rating": "",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "30-45min"
+        },
+        {
+          "infos": "Dépensez 10€, économis...",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "LE PASTRAMI",
+          "rating": "4.1",
+          "deliveryPrice": "1,99",
+          "deliveryTime": "10-20min"
+        },
+        {
+          "infos": "Économisez sur certains produits",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMTAzZmI0YzAxNWQ5YjYxOGZiMTQ3ZTU3OTEyODUwZDEvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "Fu king gambetta",
+          "rating": "4.1",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "10-20min"
+        },
+        {
+          "infos": "Article gratuit (commander pour 10e)",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZjdhY2JhY2Y2NGRjNzdhODAxZTBiYmE3M2ViMjhmYWYvODIwODgzYTQ4NTY3NjcwYWNiZDcyMGJjNzYzOTEyOTEuanBlZw==",
+          "name": "Keba boom",
+          "rating": "",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "30-45min"
+        },
+        {
+          "infos": "Dépensez 10€, économis...",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "LE PASTRAMI",
+          "rating": "4.1",
+          "deliveryPrice": "1,99",
+          "deliveryTime": "10-20min"
+        },
+        {
+          "infos": "Économisez sur certains produits",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMTAzZmI0YzAxNWQ5YjYxOGZiMTQ3ZTU3OTEyODUwZDEvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "Fu king gambetta",
+          "rating": "4.1",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "10-20min"
+        },
+        {
+          "infos": "Article gratuit (commander pour 10e)",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZjdhY2JhY2Y2NGRjNzdhODAxZTBiYmE3M2ViMjhmYWYvODIwODgzYTQ4NTY3NjcwYWNiZDcyMGJjNzYzOTEyOTEuanBlZw==",
+          "name": "Keba boom",
+          "rating": "",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "30-45min"
+        },
+        {
+          "infos": "Dépensez 10€, économis...",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDlkMjIzODk4Zjk5ZDIxMDU1ZDdhZWRlZDcyMDBkNWMvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "LE PASTRAMI",
+          "rating": "4.1",
+          "deliveryPrice": "1,99",
+          "deliveryTime": "10-20min"
+        },
+        {
+          "infos": "Économisez sur certains produits",
+          "image": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMTAzZmI0YzAxNWQ5YjYxOGZiMTQ3ZTU3OTEyODUwZDEvYTcwZjVjOWRmNDQwZDEwMjEzZTkzMjQ0ZTllYjdjYWQuanBlZw==",
+          "name": "Fu king gambetta",
+          "rating": "4.1",
+          "deliveryPrice": "2,99",
+          "deliveryTime": "10-20min"
+        }
+      ]
+
+    }
+  ]
+}

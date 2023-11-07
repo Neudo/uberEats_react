@@ -1,0 +1,27 @@
+.cta-header{
+  display: flex;
+  border-radius: 500px;
+  padding: 4px;
+  height: 40px;
+  div{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  &.xs{
+    height: 27px;
+    div{
+      padding: 10px;
+    }
+  }
+}
+
+.add, .remove{
+  cursor: pointer;
+  background-color: #EEEEEE;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;}

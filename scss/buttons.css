@@ -1,0 +1,30 @@
+.cta-header {
+  display: flex;
+  border-radius: 500px;
+  padding: 4px;
+  height: 40px;
+}
+.cta-header div {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+.cta-header.xs {
+  height: 27px;
+}
+.cta-header.xs div {
+  padding: 10px;
+}
+
+.add, .remove {
+  cursor: pointer;
+  background-color: #EEEEEE;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=buttons.css.map */

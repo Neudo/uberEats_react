@@ -1,0 +1,14 @@
+.wrapper-cta, .add-to-cart {
+  display: flex;
+}
+
+.add-to-cart {
+  padding-top: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.add-to-cart .add {
+  margin-left: 5px;
+}
+
+/*# sourceMappingURL=addToCart.css.map */

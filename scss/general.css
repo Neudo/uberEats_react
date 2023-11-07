@@ -1,0 +1,28 @@
+.bg-grey {
+  background-color: #E2E2E2;
+}
+
+.bg-black {
+  background-color: black;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+h4, p {
+  margin: 0;
+}
+
+.main-content {
+  padding: 30px;
+}
+
+a {
+  color: black;
+}
+
+/*# sourceMappingURL=general.css.map */
